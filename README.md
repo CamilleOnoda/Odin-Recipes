@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>This is the very first assignment in the Odin Project curriculum.
+    <h1>This is the very first assignment in <a href="https://www.theodinproject.com/paths">The Odin Project</a> curriculum.
     <h2>We learn:</h2> 
     <ul>
         <li>How to create the HTML boilerplate</li>
@@ -29,6 +29,3 @@
 <a href="https://www.theodinproject.com/lessons/foundations-recipes">Project: recipes</a>
     
 </body>
-</html>
-=======
-<a href="https://www.theodinproject.com/paths">The Odin Project</a>
