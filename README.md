@@ -21,9 +21,9 @@
 
 <h2>Make your very own Viking feast at home!</h2>
 <h3>Links to the recipes</h3>
-<a href="https://camilleonoda.github.io/odin-recipes/recipes/birka-bread.html">Birka Bread</a><br>
-<a href="https://camilleonoda.github.io/odin-recipes/recipes/stew.html">Stove-top stew</a><br>
-<a href="https://camilleonoda.github.io/odin-recipes/recipes/pork.html">Beer marinated pork</a>
+<a href="https://camilleonoda.github.io/Odin-Recipes/recipes/birka-bread.html">Birka Bread</a><br>
+<a href="https://camilleonoda.github.io/Odin-Recipes/recipes/stew.html">Stove-top stew</a><br>
+<a href="https://camilleonoda.github.io/Odin-Recipes/recipes/pork.html">Beer marinated pork</a>
 
 <h3>Link to the assigment</h3>
 <a href="https://www.theodinproject.com/lessons/foundations-recipes">Project: recipes</a>
