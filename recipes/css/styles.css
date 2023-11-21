@@ -29,8 +29,9 @@ body {
 
 .flex {
     display: flex;
-    align-items: flex-start;
-    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
     padding-left: 300px;
     padding-right: 300px;
     padding-top: 20px;
