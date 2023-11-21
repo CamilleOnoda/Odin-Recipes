@@ -29,11 +29,9 @@ body {
 
 .flex {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: center;
     gap: 30px;
-    padding-left: 300px;
-    padding-right: 300px;
     padding-top: 20px;
 }
 
@@ -56,6 +54,9 @@ body {
     border-color: grey;
 }
 
+footer {
+    padding-top: 20px;
+}
 
 #back-menu {
     color: #F0A500;
