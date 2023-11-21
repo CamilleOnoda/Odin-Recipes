@@ -7,6 +7,8 @@ html {
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     font-family: 'Playpen Sans', Verdana, sans-serif, cursive;
     margin: 0;
     padding: 0;
@@ -20,12 +22,11 @@ header {
 }
 
 #image {
-    display: block;
+    padding: 20px;
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 800px;
-    border: 2px solid black;
 }
 
 .navigation {
