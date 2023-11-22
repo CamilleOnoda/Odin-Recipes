@@ -29,14 +29,12 @@ body {
 
 .flex {
     display: flex;
-    align-items: baseline;
     justify-content: center;
     gap: 30px;
     padding-top: 20px;
 }
 
 .card {
-    display: flex;
     flex-basis: fit-content;
     flex-direction: column;
     padding: 20px;
@@ -55,7 +53,7 @@ body {
 }
 
 footer {
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 #back-menu {
